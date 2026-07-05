@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0104_001.yaml, hash: 'sha256:4aaecf530f223ad94d3a5dc68d1d21cdde2ea81d897c96075d61abc725af22d6'}
+  - {seq: 1, filename: KR2p0104_001.yaml, hash: 'sha256:6eb943742ca29b6b086517a65336e921c477c4da78f631eef666551e509a18fa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0104_001.markers.yaml, hash: 'sha256:5b9ed290bb544df1f62a52ff2bf66a8bb2988003a8e1910326c6aa248c1a886e'}
+  - {seq: 1, role: markers, filename: assets/KR2p0104_001.markers.yaml, hash: 'sha256:12890e51ec43724d00dc84b8501ef73905f7466ad0e20ae1ce817d928af4845d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 武威漢簡甲本少牢釋文
   type: section
   level: 1
-hash: sha256:ca9ab9d232b299e21699a9fbc6753492908c720d504a2ac9be12b992f544d220
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5c1d2029cfee50a40d77542eb95a1eab43ae8abe5f742d98f76a42321dea3f70
